@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="This is a Complicated App!"/>
+  <HelloWorld msg="This isn't so complicated after all!"/>
 </template>
 
 <script>
