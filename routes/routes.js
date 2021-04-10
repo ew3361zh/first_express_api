@@ -7,7 +7,7 @@ router.get('/', function(req, res, next){
     // '/' is a basic route path
     //req = request (from client), res = response(from server back to client), not using next here
 
-    res.json({ 'message': 'Congratulations! We got this to work!'})
+    res.json({ 'message': 'Congratulations! The sun will come out tomorrow!'})
 
 })
 
